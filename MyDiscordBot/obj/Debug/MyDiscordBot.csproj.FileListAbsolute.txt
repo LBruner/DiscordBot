@@ -1,0 +1,1 @@
+C:\Users\PARTICULAR\Documents\Git Projects\MyDiscordBot\MyDiscordBot\obj\Debug\MyDiscordBot.csprojResolveAssemblyReference.cache
